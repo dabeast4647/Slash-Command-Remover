@@ -4,9 +4,10 @@ Appears some people were having issues with removing Guild and Global commands f
 
 
 __Installation__
-1. Run `npm i`
-2. Configure the file `config.json` (guildId is optional)
-3. Run `node deploy-commands.js`
+1. Create an empty folder named `commands` (cAsE sEnSiTivE)
+2. Run `npm i`
+3. Configure the file `config.json` (guildId is optional)
+4. Run `node deploy-commands.js`
 
 Enjoy :)
 
