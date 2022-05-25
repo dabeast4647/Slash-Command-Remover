@@ -12,3 +12,6 @@ __Installation__
 Enjoy :)
 
 If you come across an issue feel free to send me a message on discord.
+
+# This will remove both global and guild slash commands
+Note : Global commands may take up to an hour to remove
